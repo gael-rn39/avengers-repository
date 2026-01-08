@@ -14,6 +14,5 @@
 - Spider Woman
 - Thor
 - Vision
-- Wasp
 - Antman
 - Ojo de Alcon
